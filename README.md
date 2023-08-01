@@ -1,2 +1,2 @@
 # Chatbot
-A real time chatbot made using Natural Language Processing..
+A real time chatbot made using Natural Language Processing.
